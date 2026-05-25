@@ -9,6 +9,14 @@ A production-ready **Retrieval-Augmented Generation (RAG)** chatbot built with L
 
 ---
 
+## 🚀 Live Demo
+
+> Try the app live — no setup required!
+
+👉 **[Open RAG Chatbot on Streamlit Cloud](https://ragchatbot-ztpmagxgynuskca5nht3kb.streamlit.app/)**
+
+---
+
 ## ✨ Features
 
 - 📄 **PDF Upload** — Upload any PDF and ask questions about its contents
