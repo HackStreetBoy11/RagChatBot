@@ -1,0 +1,106 @@
+# =========================
+# Core LLM / RAG Framework
+# =========================
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# =========================
+# Vector Database
+# =========================
+faiss-cpu
+chromadb
+
+# =========================
+# Embedding Models
+# =========================
+sentence-transformers
+huggingface-hub
+
+# =========================
+# Mistral AI
+# =========================
+mistralai
+
+# =========================
+# Gemini AI
+# =========================
+google-generativeai
+langchain-google-genai
+
+# =========================
+# Open Source Transformers
+# =========================
+transformers
+accelerate
+torch
+
+# =========================
+# Document Loaders
+# =========================
+pypdf
+pdfplumber
+PyMuPDF
+python-docx
+unstructured
+beautifulsoup4
+lxml
+
+# =========================
+# Web Scraping / URLs
+# =========================
+requests
+aiohttp
+
+# =========================
+# Utilities
+# =========================
+numpy
+pandas
+tqdm
+python-dotenv
+
+# =========================
+# API / Backend
+# =========================
+fastapi
+uvicorn
+
+# =========================
+# Optional UI
+# =========================
+streamlit
+gradio
+
+# =========================
+# Tokenization
+# =========================
+tiktoken
+
+# =========================
+# Database (Optional)
+# =========================
+sqlalchemy
+
+# =========================
+# Logging / Monitoring
+# =========================
+loguru
+
+# =========================
+# OCR Support (Optional)
+# =========================
+pytesseract
+Pillow
+
+# =========================
+# Audio/Video Docs (Optional)
+# =========================
+openai-whisper
+
+# =========================
+# RAG Evaluation (Optional)
+# =========================
+ragas
+datasets
